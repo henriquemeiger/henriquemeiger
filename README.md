@@ -1,7 +1,23 @@
-Hi, I’m Henrique Meiger.
+👋 Hi, I'm Henrique Meiger
 
-Coding skills: JavaScript, HTML, CSS
+Beginner Developer & Tech Enthusiast · Brazil 🇧🇷
 
-Studying: Java
+Interested in Software Engineering, Web Development & Entrepreneurship.
 
-Discord: @freezyyxd
+---
+
+🛠️ Stack
+
+"JavaScript" · "TypeScript" · "HTML" · "CSS"
+
+Currently learning: "Java" · "C"
+
+🌎 Languages
+
+"Portuguese" · "English"
+
+📫 Connect
+
+Email: contact@henriquemeiger.com
+
+LinkedIn: "henriquemeiger" (https://www.linkedin.com/in/henriquemeiger/)
