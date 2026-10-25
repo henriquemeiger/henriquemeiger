@@ -8,7 +8,7 @@ Interested in Software Engineering, Web Development & Entrepreneurship.
 
 🛠️ Stack
 
-"JavaScript" · "TypeScript" · "HTML" · "CSS"
+"JavaScript" · "HTML" · "CSS"
 
 Currently learning: "Java" · "C"
 
