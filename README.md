@@ -20,4 +20,4 @@ Currently learning: "Java" · "C"
 
 Email: contact@henriquemeiger.com
 
-LinkedIn: in/henriquemeiger
+LinkedIn: in/henriquemeiger.com
